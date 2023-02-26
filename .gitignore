@@ -1,2 +1,2 @@
 # ignore python venv
-./sklearn-venv
+sklearn-venv/
